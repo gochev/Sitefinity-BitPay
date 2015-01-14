@@ -1,4 +1,6 @@
-Sitefinity BitPay Provider sample project.
+Sitefinity BitPay Provider. 
+
+The officialy supported more up2date BitPay provider is at https://github.com/esitefinity/Sitefinity-BitPay please use the esitefinity one.
 
 ABOUT
 
